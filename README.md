@@ -8,8 +8,8 @@
 - 📫 How to reach me **ananya137das@gmail.com**
 
 # Skills
-<img src="![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/b11826f2-2422-4e7b-84d9-ecc50e1fb253)" width="1000" height="2000">
-![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/695ad5f7-555c-4ed4-a39f-36ee13085adb)
+![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/e89215f8-49c5-47fa-8ce9-bd0915683c11)
+
 
 
 

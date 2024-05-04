@@ -1,4 +1,4 @@
-<img src= "https://github.com/Ananyad7/Ananyad7/assets/164981636/ea7eba01-ad79-4f36-969b-348bdbd5010e"  width="2500" height="400">
+<img src= "https://github.com/Ananyad7/Ananyad7/assets/164981636/ea7eba01-ad79-4f36-969b-348bdbd5010e"  width="1500" height="400">
 
 <h1 align="center">Ananya Das</h1>
 <h3 align="center">A motivated economics master's graduate with a strong foundation in SQL and Advanced Excel. Proficient in crafting dynamic and impactful visualizations using Tableau and Power BI, effectively communicating complex data insights to diverse stakeholders. Committed to continuous learning to stay at the forefront of Business Intelligence (BI) technologies</h3>

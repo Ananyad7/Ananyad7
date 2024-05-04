@@ -8,17 +8,7 @@
 - 📫 How to reach me **ananya137das@gmail.com**
 
 # Skills
-![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/e89215f8-49c5-47fa-8ce9-bd0915683c11)
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
+<img src= "https://github.com/Ananyad7/Ananyad7/assets/164981636/e89215f8-49c5-47fa-8ce9-bd0915683c11" width="70" height="70">   <img src= "https://github.com/Ananyad7/Ananyad7/assets/164981636/1966f169-ae20-4665-9a96-5b6b7b799f68" width="90" height="70">   <img src= "https://github.com/Ananyad7/Ananyad7/assets/164981636/dbb1e260-4764-4591-a4fe-903b533f4c8c" width="100" height="100">  <img src= "https://github.com/Ananyad7/Ananyad7/assets/164981636/2cb133d4-7970-4706-b9f8-1526aceb5721" width="50" height="50">  <img src= "https://github.com/Ananyad7/Ananyad7/assets/164981636/49884dd9-aaa8-46b0-8b87-f6ceb10778bc" width="50" height="50">  
 
 
 <h3 align="left">Connect with me:</h3>

@@ -8,8 +8,7 @@
 - 📫 How to reach me **ananya137das@gmail.com**
 
 # Skills
-Programming Languages
-<img src="![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/d20388cf-f360-4d6b-9d13-50f4e9626d12)" width="300" height="200">
+<img src="C:\Users\ANANYA\Downloads\logo.png" width="300" height="200">
 
 
 

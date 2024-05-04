@@ -9,7 +9,9 @@
 
 # Skills
 Programming Languages
-![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/d20388cf-f360-4d6b-9d13-50f4e9626d12)
+<img src="![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/d20388cf-f360-4d6b-9d13-50f4e9626d12)" width="300" height="200">
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>

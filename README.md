@@ -8,6 +8,10 @@
 - 📫 How to reach me **ananya137das@gmail.com**
 
 # Skills
+Programming Languages
+![logo](https://github.com/Ananyad7/Ananyad7/assets/164981636/d20388cf-f360-4d6b-9d13-50f4e9626d12)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
